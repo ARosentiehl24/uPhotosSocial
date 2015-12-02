@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">uPhotosSocial</string>
     <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">711289998970448</string>
+    <string name="user_cancel_request">User cancel request.</string>
+    <string name="facebook_error">Facebook error.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="take_picture">Take a picture</string>
+    <string name="logout">Logout</string>
 </resources>
